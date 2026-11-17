@@ -4,7 +4,7 @@ Mapa mental com os principais conceitos de **Programação Orientada a Objetos (
 
 📄 **Material completo:** [`mapa_mental_POO_CSharp.pdf`](mapa_mental_POO_CSharp.pdf)
 
-![Mapa mental de POO com C#](imagens/mapa-mental.png)
+![Mapa mental de POO com C#](mapa-mental.png)
 
 ---
 
